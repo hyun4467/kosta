@@ -1,12 +1,10 @@
 <html>
-	<header>
-		<title>>Git수업</title>
-	</header>
 	<body>
 		<header>
 			<h1>Git</h1>
 		<header>
 		<ul>
+			<li>git이란</li>
 		</ul>
 	</body>
 </html>
