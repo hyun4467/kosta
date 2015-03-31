@@ -1,11 +1,20 @@
 <html>
+<<<<<<< HEAD
+=======
+	<header>
+		<title>Git¼Ò°³</title>
+	</header>
+>>>>>>> ì‹¤í—˜
 	<body>
 		<header>
 			<h1>Git</h1>
 		<header>
+<<<<<<< HEAD
 		<ul>
 			<li>gitÀÌ¶õ</li>
 			<li>¹öÀü</li>
 		</ul>
+=======
+>>>>>>> ì‹¤í—˜
 	</body>
 </html>
