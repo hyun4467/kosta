@@ -1,6 +1,5 @@
 <html>
 	<header>
-		<title>>Git¼ö¾÷</title>
 	</header>
 	<body>
 		<header>
